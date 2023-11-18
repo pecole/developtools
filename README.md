@@ -1,4 +1,5 @@
 # programable-calculator
+It is a desktop application that converts images into various formats. This is not being maintained.
 
 ## Project setup
 ```
@@ -28,4 +29,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### hoge
